@@ -40,6 +40,7 @@ Donor:
 David W. Aha (aha '@' ics.uci.edu) (714) 856-8779
 
 **Inspiration**
+
 Experiments with the Cleveland database have concentrated on simply attempting to distinguish presence (values 1,2,3,4) from absence (value 0).
 
 See if you can find any other trends in heart data to predict certain cardiovascular events or find any clear indications of heart health.
